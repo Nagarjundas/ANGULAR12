@@ -46,3 +46,24 @@ Angular CLI - Command Line Interface
                 services 
                 directives 
                 applications 
+                
+                
+                
+ //ADD BOOTSTRAP
+ 
+ NPM package manager 
+
+    -> npm i bootstrap jquery popper --save -> Bootstrap v4 
+
+    -> Bootstrap 5 
+    
+    npm i bootstrap popper --save 
+
+    package.json 
+
+
+    DO NOT MISS THIS STEP 
+
+        update angular.json 
+
+        RESTART your application
