@@ -67,3 +67,8 @@ Angular CLI - Command Line Interface
         update angular.json 
 
         RESTART your application
+        
+        
+   
+   
+   Communication betn component
